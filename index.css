@@ -8,6 +8,14 @@
   font-family: "Poppins", sans-serif;
 }
 
+#foot {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: rgb(54, 54, 54);
+}
+
 .rainbow {
   text-align: center;
   font-size: 4rem;
